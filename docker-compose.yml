@@ -1,0 +1,18 @@
+ version: '3.3'
+ services:
+   location_entities_api:
+     build:
+       context: .
+     container_name: location__entities__services_api
+     image: location_entities_api_img
+     command: gunicorn src.api:app  --workers 1 --worker-class uvicorn.workers.UvicornWorker --bind 0.0.0.0:8080 --timeout 120
+#     command: ["/bin/sh", "-c", "while true; do echo 'Infinite loop'; sleep 1; done"]
+     # command: gunicorn api:app  --workers 1 --worker-class uvicorn.workers.UvicornWorker --bind 0.0.0.0:9300 --timeout 120 --certfile=/ssl/cert.pem --keyfile=/ssl/key.pem
+     restart: always
+     ports:
+       - 8080:8080
+     volumes:
+       - ./logs:/app/logs
+      #  - /ssl:/ssl
+     env_file:
+      - ./.env

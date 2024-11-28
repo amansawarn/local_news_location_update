@@ -1,0 +1,15 @@
+Logger is configured
+Retry count:1
+Connection with redis established
+Number of locations with nearby within 100km: 0
+Error in dumping reverse index to redis: 'hmset' with 'mapping' of length 0
+Logger is configured
+Retry count:1
+Connection with redis established
+Number of locations with nearby within 100km: 42649
+Reverse index dumped in redis
+Logger is configured
+Retry count:1
+Connection with redis established
+Number of locations with nearby within 100km: 42649
+Reverse index dumped in redis

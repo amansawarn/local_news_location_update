@@ -1,0 +1,91 @@
+Logger is configured
+Retry count:1
+Connection with redis established
+Collection temp_sample_location_states ingested
+No. of entities ingested in collection temp_sample_location_states: 37
+Collection temp_sample_location_districts ingested
+No. of entities ingested in collection temp_sample_location_districts: 718
+Entities of collections ['temp_sample_location_states', 'temp_sample_location_districts'] dumped to redis successfully
+Total no. of important cities: 0
+No. of important cities blocked: 0
+Error while dumping entities to redis: 'hmset' with 'mapping' of length 0
+Missed cities dumped to redis successfully
+Entities deleted from redis: ['नदिया', 'संभल', 'मंडी', 'बांकुड़ा', 'हासन', 'कटरा', 'बौध', 'सलेम', 'गुना', 'लोहित', 'कृष्णा', 'धुले', 'फेक', 'आरा', 'पुरी', 'सूरत', 'बांका', 'गया', 'कोटा', 'निर्मल', 'सागर', 'पन्ना', 'दुर्ग', 'बस्ती', 'sagar', 'lohit', 'salem', 'hassan', 'chandel', 'erode', 'nirmal', 'krishna', 'solan', 'ہاسن', 'لوہت', 'نرمل', 'سیلم', 'بانکا', 'کرشن', 'కృష్ణా', 'నిర్మల్', 'ಹಾಸನ', 'சேலம்', 'লোহিত', 'বাঁকা']
+Logger is configured
+Retry count:1
+Connection with redis established
+Collection temp_sample_location_states ingested
+No. of entities ingested in collection temp_sample_location_states: 37
+Collection temp_sample_location_districts ingested
+No. of entities ingested in collection temp_sample_location_districts: 718
+Entities of collections ['temp_sample_location_states', 'temp_sample_location_districts'] dumped to redis successfully
+Total no. of important cities: 0
+No. of important cities blocked: 0
+Error while dumping entities to redis: 'hmset' with 'mapping' of length 0
+Missed cities dumped to redis successfully
+Entities deleted from redis: ['सूरत', 'निर्मल', 'कटरा', 'संभल', 'हासन', 'कृष्णा', 'गुना', 'गया', 'बौध', 'धुले', 'पन्ना', 'आरा', 'बांका', 'बस्ती', 'दुर्ग', 'नदिया', 'फेक', 'पुरी', 'सलेम', 'लोहित', 'मंडी', 'बांकुड़ा', 'कोटा', 'सागर', 'solan', 'nirmal', 'salem', 'erode', 'sagar', 'chandel', 'lohit', 'krishna', 'hassan', 'لوہت', 'ہاسن', 'سیلم', 'کرشن', 'بانکا', 'نرمل', 'కృష్ణా', 'నిర్మల్', 'ಹಾಸನ', 'சேலம்', 'লোহিত', 'বাঁকা']
+Logger is configured
+Retry count:1
+Connection with redis established
+Collection location_states ingested
+No. of entities ingested in collection location_states: 37
+Collection location_districts ingested
+No. of entities ingested in collection location_districts: 718
+Entities of collections ['location_states', 'location_districts'] dumped to redis successfully
+Total no. of important cities: 0
+No. of important cities blocked: 0
+Error while dumping entities to redis: 'hmset' with 'mapping' of length 0
+Missed cities dumped to redis successfully
+Entities deleted from redis: ['कृष्णा', 'लोहित', 'सलेम', 'धुले', 'संभल', 'कोटा', 'गया', 'सागर', 'पन्ना', 'निर्मल', 'आरा', 'बस्ती', 'सूरत', 'कटरा', 'नदिया', 'बांका', 'हासन', 'पुरी', 'बांकुड़ा', 'मंडी', 'फेक', 'दुर्ग', 'गुना', 'बौध', 'chandel', 'nirmal', 'solan', 'salem', 'krishna', 'hassan', 'erode', 'lohit', 'sagar', 'کرشن', 'لوہت', 'نرمل', 'ہاسن', 'سیلم', 'بانکا', 'కృష్ణా', 'నిర్మల్', 'ಹಾಸನ', 'சேலம்', 'লোহিত', 'বাঁকা']
+Logger is configured
+Retry count:1
+Connection with redis established
+Number of locations with nearby within 100km: 42649
+Reverse index dumped in redis
+Logger is configured
+Retry count:1
+Connection with redis established
+Collection location_states ingested
+No. of entities ingested in collection location_states: 37
+Collection location_districts ingested
+No. of entities ingested in collection location_districts: 718
+Entities of collections ['location_states', 'location_districts'] dumped to redis successfully
+Total no. of important cities: 0
+No. of important cities blocked: 0
+Error while dumping entities to redis: 'hmset' with 'mapping' of length 0
+Missed cities dumped to redis successfully
+Entities deleted from redis: ['सूरत', 'संभल', 'हासन', 'पुरी', 'पन्ना', 'कटरा', 'बांकुड़ा', 'बांका', 'नदिया', 'फेक', 'धुले', 'सलेम', 'कृष्णा', 'बस्ती', 'दुर्ग', 'गुना', 'निर्मल', 'कोटा', 'सागर', 'आरा', 'लोहित', 'मंडी', 'बौध', 'गया', 'krishna', 'chandel', 'solan', 'sagar', 'salem', 'lohit', 'nirmal', 'erode', 'hassan', 'ہاسن', 'بانکا', 'سیلم', 'کرشن', 'لوہت', 'نرمل', 'కృష్ణా', 'నిర్మల్', 'ಹಾಸನ', 'சேலம்', 'লোহিত', 'বাঁকা']
+Logger is configured
+Retry count:1
+Error in redis connection:'LOCAL_SERVER'
+Retry count:2
+Error in redis connection:'LOCAL_SERVER'
+Retry count:3
+Error in redis connection:'LOCAL_SERVER'
+Redis session could not be established after 3 tries
+Logger is configured
+Retry count:1
+Connection with redis established
+Collection location_states ingested
+No. of entities ingested in collection location_states: 37
+Collection location_districts ingested
+No. of entities ingested in collection location_districts: 718
+Entities of collections ['location_states', 'location_districts'] dumped to redis successfully
+Total no. of important cities: 0
+No. of important cities blocked: 0
+Error while dumping entities to redis: 'hmset' with 'mapping' of length 0
+Missed cities dumped to redis successfully
+Entities deleted from redis: ['धुले', 'पन्ना', 'बांकुड़ा', 'बांका', 'मंडी', 'बस्ती', 'सलेम', 'गया', 'आरा', 'सूरत', 'बौध', 'हासन', 'लोहित', 'निर्मल', 'गुना', 'पुरी', 'फेक', 'सागर', 'कोटा', 'कृष्णा', 'संभल', 'कटरा', 'नदिया', 'दुर्ग', 'lohit', 'erode', 'chandel', 'krishna', 'sagar', 'salem', 'nirmal', 'hassan', 'solan', 'لوہت', 'بانکا', 'کرشن', 'ہاسن', 'سیلم', 'نرمل', 'కృష్ణా', 'నిర్మల్', 'ಹಾಸನ', 'சேலம்', 'লোহিত', 'বাঁকা']
+Logger is configured
+Retry count:1
+Connection with redis established
+Collection location_states ingested
+No. of entities ingested in collection location_states: 37
+Collection location_districts ingested
+No. of entities ingested in collection location_districts: 718
+Entities of collections ['location_states', 'location_districts'] dumped to redis successfully
+Total no. of important cities: 0
+No. of important cities blocked: 0
+Error while dumping entities to redis: 'hmset' with 'mapping' of length 0
+Missed cities dumped to redis successfully
+Entities deleted from redis: ['कृष्णा', 'नदिया', 'बस्ती', 'गया', 'सलेम', 'बौध', 'कोटा', 'बांकुड़ा', 'आरा', 'धुले', 'सागर', 'बांका', 'पन्ना', 'सूरत', 'कटरा', 'गुना', 'फेक', 'दुर्ग', 'पुरी', 'संभल', 'निर्मल', 'लोहित', 'मंडी', 'हासन', 'hassan', 'lohit', 'nirmal', 'chandel', 'sagar', 'solan', 'salem', 'krishna', 'erode', 'لوہت', 'نرمل', 'ہاسن', 'کرشن', 'سیلم', 'بانکا', 'నిర్మల్', 'కృష్ణా', 'ಹಾಸನ', 'சேலம்', 'লোহিত', 'বাঁকা']

@@ -1,0 +1,1283 @@
+[{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d82"
+  },
+  "name_en": "Gujarat",
+  "name_hi": "गुजरात",
+  "name_ta": "குசராத்",
+  "name_kn": "ಗುಜರಾತ್",
+  "name_gu": "ગુજરાત",
+  "name_mr": "गुजरात",
+  "name_bn": "গুজরাত",
+  "name_as": "গুজৰাট",
+  "name_te": "గుజరాత్",
+  "name_or": "ଗୁଜରାଟ",
+  "name_ur": "گجرات",
+  "name_pa": "ਗੁਜਰਾਤ",
+  "name_ml": "ഗുജറാത്ത്",
+  "coordinates": [
+    72.6833,
+    23.2167
+  ],
+  "alternate_names_en": "Gujarat State, all of gujarat",
+  "alternate_names_ta": "குஜராத்",
+  "alternate_names_gu": "ગુજરાત રાજ્ય",
+  "id": "location_states_1",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1061",
+    "geonameid": "1270770"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.123Z"
+  },
+  "country_id": "location_country_1"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d88"
+  },
+  "name_en": "Goa",
+  "name_hi": "गोआ",
+  "name_ta": "கோவா",
+  "name_kn": "ಗೋವಾ",
+  "name_gu": "ગોઆ",
+  "name_mr": "गोवा",
+  "name_bn": "গোয়া",
+  "name_as": "গোৱা",
+  "name_te": "గోవా",
+  "name_or": "ଗୋଆ",
+  "name_ur": "گوا",
+  "name_pa": "ਗੋਆ",
+  "name_ml": "ഗോവ",
+  "coordinates": [
+    74.0433,
+    15.4019
+  ],
+  "alternate_names_en": "Konkan, all of goa",
+  "alternate_names_hi": "गोंय",
+  "id": "location_states_7",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1171",
+    "geonameid": "1271157"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.131Z"
+  },
+  "country_id": "location_country_1"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d86"
+  },
+  "name_en": "Bihar",
+  "name_hi": "बिहार",
+  "name_ta": "பீகார்",
+  "name_kn": "ಬಿಹಾರ",
+  "name_gu": "બિહાર",
+  "name_mr": "बिहार",
+  "name_bn": "বিহার",
+  "name_as": "বিহাৰ",
+  "name_te": "బీహార్",
+  "name_or": "ବିହାର",
+  "name_ur": "بہار",
+  "name_pa": "ਬਿਹਾਰ",
+  "name_ml": "ബിഹാർ",
+  "coordinates": [
+    85.13,
+    25.37
+  ],
+  "id": "location_states_5",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1165",
+    "geonameid": "1275715"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.128Z"
+  },
+  "country_id": "location_country_1",
+  "alternate_names_en": "all of bihar"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d90"
+  },
+  "name_en": "Maharashtra",
+  "name_hi": "महाराष्ट्र",
+  "name_ta": "மகாராட்டிரம்",
+  "name_kn": "ಮಹಾರಾಷ್ಟ್ರ",
+  "name_gu": "મહારાષ્ટ્ર",
+  "name_mr": "महाराष्ट्र",
+  "name_bn": "মহারাষ্ট্র",
+  "name_as": "মহাৰাষ্ট্ৰ",
+  "name_te": "మహారాష్ట్ర",
+  "name_or": "ମହାରାଷ୍ଟ୍ର",
+  "name_ur": "مہاراشٹر",
+  "name_pa": "ਮਹਾਰਾਸ਼ਟਰ",
+  "name_ml": "മഹാരാഷ്ട്ര",
+  "coordinates": [
+    76.42,
+    19.56
+  ],
+  "alternate_names_ta": "மஹாராஷ்டிரா",
+  "id": "location_states_15",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1191",
+    "geonameid": "1264418"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.141Z"
+  },
+  "country_id": "location_country_1",
+  "alternate_names_en": "all of maharashtra"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15da0"
+  },
+  "name_en": "Lakshadweep",
+  "name_hi": "लक्षद्वीप",
+  "name_ta": "இலட்சத்தீவுகள்",
+  "name_kn": "ಲಕ್ಷದ್ವೀಪ",
+  "name_gu": "લક્ષદ્વીપ",
+  "name_mr": "लक्षद्वीप",
+  "name_bn": "লক্ষদ্বীপ",
+  "name_te": "లక్షద్వీపములు",
+  "name_or": "ଲାକ୍ଷାଦ୍ଵୀପ",
+  "name_ur": "لکشادیپ",
+  "name_pa": "ਲਕਸ਼ਦੀਪ",
+  "name_ml": "ലക്ഷദ്വീപ്",
+  "coordinates": [
+    72.63,
+    10.57
+  ],
+  "alternate_names_en": "Laccadive, Minicoy, and Amindivi Islands, all of lakshadweep",
+  "alternate_names_hi": "लक्षद्वीप के जिले, साँचा:लक्षद्वीप के जिले",
+  "alternate_names_ta": "இலட்சத் தீவுகள், லட்சத்தீவுகள்",
+  "alternate_names_mr": "लक्षद्विप",
+  "alternate_names_bn": "লাক্ষাদ্বীপ",
+  "alternate_names_te": "లక్ష దీవులు, లక్షదీవులు, లక్షద్వీపాలు, లక్షద్వీప్",
+  "alternate_names_or": "ଲାକ୍ଷାଦିପ, ଲାକ୍ଷାଦ୍ବୀପ",
+  "alternate_names_ur": "ڈوب, لکادیپ",
+  "alternate_names_ml": "Lakshadweep, ലക്ഷദ്വീപ്",
+  "id": "location_states_31",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q26927",
+    "geonameid": "1265206"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.163Z"
+  },
+  "country_id": "location_country_1"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d9f"
+  },
+  "name_en": "Punjab",
+  "name_hi": "पंजाब",
+  "name_ta": "பஞ்சாப்",
+  "name_kn": "ಪಂಜಾಬ್",
+  "name_gu": "પંજાબ",
+  "name_mr": "पंजाब",
+  "name_bn": "পাঞ্জাব",
+  "name_as": "পঞ্জাব",
+  "name_te": "పంజాబ్",
+  "name_or": "ପଞ୍ଜାବ",
+  "name_ur": "پنجاب، بھارت",
+  "name_pa": "ਪੰਜਾਬ",
+  "name_ml": "പഞ്ചാബ്",
+  "coordinates": [
+    75.4667,
+    30.7667
+  ],
+  "alternate_names_en": "Land of Five Rivers, Punjab State, Punjab, all of punjab",
+  "alternate_names_hi": "पंजाब, पांच नदियों की भूमि",
+  "alternate_names_bn": "পাঞ্জাব",
+  "alternate_names_as": "পাঞ্জাব",
+  "alternate_names_pa": "ਪੰਜ ਆਬ, ਪੰਜ ਦਰਿਆਵਾਂ ਦੀ ਧਰਤੀ, ਪੰਜਾਬ",
+  "id": "location_states_30",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q22424",
+    "geonameid": "1259223"
+  },
+  "last_updated": {
+    "$date": "2020-02-26T12:40:01.161Z"
+  },
+  "country_id": "location_country_1"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d9c"
+  },
+  "name_en": "Sikkim",
+  "name_hi": "सिक्किम",
+  "name_ta": "சிக்கிம்",
+  "name_kn": "ಸಿಕ್ಕಿಂ",
+  "name_gu": "સિક્કિમ",
+  "name_mr": "सिक्किम",
+  "name_bn": "সিক্কিম",
+  "name_as": "ছিক্কিম",
+  "name_te": "సిక్కిం",
+  "name_or": "ସିକିମ",
+  "name_ur": "سکم",
+  "name_pa": "ਸਿੱਕਮ",
+  "name_ml": "സിക്കിം",
+  "coordinates": [
+    88.62,
+    27.33
+  ],
+  "alternate_names_bn": "সিকিম",
+  "id": "location_states_27",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1505",
+    "geonameid": "1256312"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.157Z"
+  },
+  "country_id": "location_country_1",
+  "alternate_names_en": "all of sikkim"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d8e"
+  },
+  "name_en": "Kerala",
+  "name_hi": "केरल",
+  "name_ta": "கேரளம்",
+  "name_kn": "ಕೇರಳ",
+  "name_gu": "કેરળ",
+  "name_mr": "केरळ",
+  "name_bn": "কেরল",
+  "name_as": "কেৰেলা",
+  "name_te": "కేరళ",
+  "name_or": "କେରଳ",
+  "name_ur": "کیرلا",
+  "name_pa": "ਕੇਰਲਾ",
+  "name_ml": "കേരളം",
+  "coordinates": [
+    76.972,
+    8.5074
+  ],
+  "alternate_names_en": "God's Own Country, IN-KL, Keralam, Land of coconuts, all of kerala",
+  "alternate_names_ta": "கேரளா",
+  "alternate_names_pa": "ਕੇਰਲ",
+  "alternate_names_ml": "കേരള, ദൈവത്തിന്റെ സ്വന്തം നാട്",
+  "id": "location_states_13",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1186",
+    "geonameid": "1267254"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.139Z"
+  },
+  "country_id": "location_country_1"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15da1"
+  },
+  "name_en": "Andaman and Nicobar Islands",
+  "name_hi": "अण्डमान और निकोबार द्वीपसमूह",
+  "name_ta": "அந்தமான் நிக்கோபார் தீவுகள்",
+  "name_kn": "ಅಂಡಮಾನ್ ಮತ್ತು ನಿಕೊಬಾರ್ ದ್ವೀಪಗಳು",
+  "name_gu": "અંદામાન અને નિકોબાર દ્વીપસમૂહ",
+  "name_mr": "अंदमान आणि निकोबार",
+  "name_bn": "আন্দামান ও নিকোবর দ্বীপপুঞ্জ",
+  "name_as": "আন্দামান আৰু নিকোবৰ দ্বীপপুঞ্জ",
+  "name_te": "అండమాన్ నికోబార్ దీవులు",
+  "name_or": "ଆଣ୍ଡମାନ ଓ ନିକୋବର ଦ୍ଵୀପପୁଞ୍ଜ",
+  "name_ur": "جزائر انڈمان و نکوبار",
+  "name_pa": "ਅੰਡੇਮਾਨ ਅਤੇ ਨਿਕੋਬਾਰ ਦੀਪ ਸਮੂਹ",
+  "name_ml": "ആന്തമാൻ നിക്കോബാർ ദ്വീപുകൾ",
+  "coordinates": [
+    92.77,
+    11.68
+  ],
+  "alternate_names_hi": "अंडमान एवं निकोबार, अंडमान एवं निकोबार द्वीप समूह, अंडमान एवं निकोबार द्वीपसमूह, अंडमान और निकोबार द्वीप, अंडमान और निकोबार द्वीप समूह, अंडमान और नोकोबार द्वीप समूह, अंडमान निओबार द्वीप, अंडमान निकोबार, अंडमान निकोबार द्वीप, अंडमान निकोबार द्वीप समूह, अंडमान निकोबार द्वीपसमूह, अंडमान व निकोबार द्वीप, अंडमान व निकोबार द्वीप समूह, अंडमान व निकोबार द्वीपसमूह, अंडमान व नोकोबार द्वीप समूह, अण्डमान एवं निकोबार द्वीपसमूह, अण्डमान व निकोबार द्वीपसमूह, अंदमान एवं निकोबार द्वीप समूह, अंदमान एवं निकोबार द्वीपसमूह, अंदमान और निकोबार द्वीप, अंदमान और निकोबार द्वीप समूह, अंदमान निकोबार द्वीपसमूह",
+  "alternate_names_ta": "அந்தமான் நிகோபார், அந்தமான் நிகோபார் தீவுகள், அந்தமான் நிக்கோபர், அந்தமான் நிக்கோபர் தீவுகள், அந்தமான் நிக்கோபார், அந்தமான் மற்றும் நிக்கோபார் தீவுகள், அந்தமான், நிக்கோபார் தீவுகள்",
+  "alternate_names_kn": "ಅಂಡಮಾನ್, ಅಂಡಮಾನ್ ಮತ್ತು ನಿಕೊಬಾರ್, ಅಂಡಮಾನ್ ಮತ್ತು ನಿಕೋಬಾರ್, ಅಂಡಮಾನ್ ಮತ್ತು ನಿಕೋಬಾರ್ ದ್ವೀಪಗಳು",
+  "alternate_names_mr": "अंदमान, अंदमान आणि निकोबार द्विपसमूह, अंदमान आणि निकोबार द्वीप समूह, अंदमान आणि निकोबार द्वीपसमुह, अंदमान आणि निकोबार द्वीपसमूह, अंदमान आणि निकोबार बेटे, अंदमान निकोबार",
+  "alternate_names_as": "আন্দামান নিকোবৰ",
+  "alternate_names_te": "అండమాను నికోబారు దీవులు, అండమాన్, అండమాన్ మరియు నికోబార్ దీవులు, నికోబార్",
+  "alternate_names_or": "ଅଣ୍ଡମାନ ଓ ନିକୋବାର ଦ୍ଵୀପପୁଞ୍ଜ, ଆଣ୍ଡାମାନ ଓ ନିକୋବାର ଦ୍ବୀପପୁଞ୍ଜ, ଆନ୍ଦାମାନ ଓ ନିକୋବାର ଦିପ, ଆନ୍ଦାମାନ ଓ ନିକୋବାର ଦ୍ବୀପ",
+  "alternate_names_pa": "ਅੰਡੇਮਾਨ ਨਿਕੋਬਾਰ ਦੀਪ ਸਮੂਹ",
+  "alternate_names_ml": "Andaman & Nicobar Islands, Andaman and Nicobar Islands, ആൻഡമാൻ നിക്കോബാർ, ആൻഡമാൻ നിക്കോബാർ ദ്വീപുകൾ, ആന്തമാൻ നിക്കോബാർ, ആന്റമാൻ ആന്റ് നിക്കോബർ ദ്വീപുകൾ",
+  "id": "location_states_32",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q40888",
+    "geonameid": "1278647"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.164Z"
+  },
+  "country_id": "location_country_1",
+  "alternate_names_en": "all of andaman and nicobar islands"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15da3"
+  },
+  "name_en": "Dadra and Nagar Haveli",
+  "name_hi": "दादर और नागर हवेली",
+  "name_ta": "தாத்ரா மற்றும் நகர் அவேலி",
+  "name_kn": "ದಾದ್ರ ಮತ್ತು ನಗರ್ ಹವೆಲಿ",
+  "name_gu": "દાદરા અને નગરહવેલી",
+  "name_mr": "दादरा आणि नगर-हवेली",
+  "name_bn": "দাদরা ও নগর হাভেলি",
+  "name_te": "దాద్రా నగరు హవేలీ",
+  "name_or": "ଦାଦ୍ରା ଓ ନଗର ହବେଳୀ",
+  "name_ur": "دادرا و نگر حویلی",
+  "name_pa": "ਦਾਦਰ ਅਤੇ ਨਗਰ ਹਵੇਲੀ",
+  "name_ml": "ദാദ്ര, നഗർ ഹവേലി",
+  "coordinates": [
+    73.02,
+    20.27
+  ],
+  "alternate_names_hi": "दादरा एवं नगर हवेली, दादरा एवं नागर हवेली, दादरा और नगर हवेली, दादरा और नगर हवेली के जिले, दादरा और नागर हवेली, दादरा तथा नगर हवेली, दाद्रा और नगर हवेली, साँचा:दादरा और नगर हवेली के जिले",
+  "alternate_names_ta": "தட்ராவும் நாகர் ஹவேலியும், தட்றா அண்ட்  நகர்  ஹவேலி, தாத்ரா நாகர் ஹவேலி, தாத்ரா மற்றும் நகர் ஹவேலி",
+  "alternate_names_kn": "ದಾದ್ರ ಮತ್ತು ನಾಗರ್ ಹವೆಲಿ, ದಾದ್ರಾ ಮತ್ತು ನಗರ್ ಹವೇಲಿ",
+  "alternate_names_mr": "दादरा आणि नगर हवेली, दादरा आणि नगरहवेली, दादरा व नगर हवेली",
+  "alternate_names_te": "దాద్రా నగరు హవేలి, దాద్రా నగర్హవేలీ, దాద్రా నాగర్ హవేలి, దాద్రా నాగర్ హవేలీ, దాద్రా-నగరుహవేలి, దాద్రా, నగర్ హవేలీ",
+  "alternate_names_or": "ଦାଦ୍ରା ଓ ନଗର ହାବେଳି, ଦାଦ୍ରା ଓ ନଗର ହାଵେଳି, ଦାଦ୍ରା ଓ ନଗରହାଵେଳି, ଦାଦ୍ରା ନଗର ହାବେଳି",
+  "alternate_names_pa": "ਦਾਦਰਾ ਅਤੇ ਨਗਰ ਹਵੇਲੀ",
+  "alternate_names_ml": "Dadra & Nagar Haveli, Dadra and Nagar Haveli, ദാദ്ര, നാഗർ ഹവേലി",
+  "id": "location_states_34",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q46107",
+    "geonameid": "1273726"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.167Z"
+  },
+  "country_id": "location_country_1",
+  "alternate_names_en": "all of dadra and nagar haveli"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d8a"
+  },
+  "name_en": "Himachal Pradesh",
+  "name_hi": "हिमाचल प्रदेश",
+  "name_ta": "இமாசலப் பிரதேசம்",
+  "name_kn": "ಹಿಮಾಚಲ ಪ್ರದೇಶ",
+  "name_gu": "હિમાચલ પ્રદેશ",
+  "name_mr": "हिमाचल प्रदेश",
+  "name_bn": "হিমাচল প্রদেশ",
+  "name_as": "হিমাচল প্ৰদেশ",
+  "name_te": "హిమాచల్ ప్రదేశ్",
+  "name_or": "ହିମାଚଳ ପ୍ରଦେଶ",
+  "name_ur": "ہماچل پردیش",
+  "name_pa": "ਹਿਮਾਚਲ ਪ੍ਰਦੇਸ਼",
+  "name_ml": "ഹിമാചൽ പ്രദേശ്",
+  "coordinates": [
+    77.1722,
+    31.1033
+  ],
+  "alternate_names_en": "HP, H. P., Himachal, all of himachal pradesh",
+  "alternate_names_ta": "ஹிமாச்சல்  பிரதேஷ்",
+  "id": "location_states_9",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1177",
+    "geonameid": "1270101"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.134Z"
+  },
+  "country_id": "location_country_1"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d97"
+  },
+  "name_en": "Rajasthan",
+  "name_hi": "राजस्थान",
+  "name_ta": "இராச்சசுத்தான்",
+  "name_kn": "ರಾಜಸ್ಥಾನ",
+  "name_gu": "રાજસ્થાન",
+  "name_mr": "राजस्थान",
+  "name_bn": "রাজস্থান",
+  "name_as": "ৰাজস্থান",
+  "name_te": "రాజస్థాన్",
+  "name_or": "ରାଜସ୍ଥାନ",
+  "name_ur": "راجستھان",
+  "name_pa": "ਰਾਜਸਥਾਨ",
+  "name_ml": "രാജസ്ഥാൻ",
+  "coordinates": [
+    73.8389,
+    26.5728
+  ],
+  "alternate_names_en": "Rajputana, all of rajasthan",
+  "alternate_names_hi": "राजपुताना",
+  "alternate_names_ta": "ராஜஸ்தான்",
+  "id": "location_states_22",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1437",
+    "geonameid": "1258899"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.150Z"
+  },
+  "country_id": "location_country_1"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15da5"
+  },
+  "name_en": "Daman and Diu",
+  "name_hi": "दमन और दीव",
+  "name_ta": "தமன் மற்றும் தியூ",
+  "name_kn": "ದಮನ್ ಮತ್ತು ದಿಯು",
+  "name_gu": "દમણ અને દીવ",
+  "name_mr": "दमण आणि दीव",
+  "name_bn": "দমন ও দিউ",
+  "name_te": "దమన్ దియు",
+  "name_or": "ଡାମନ ଓ ଡିଉ",
+  "name_ur": "دمن و دیو",
+  "name_pa": "ਦਮਨ ਅਤੇ ਦਿਉ",
+  "name_ml": "ദമൻ, ദിയു",
+  "coordinates": [
+    72.85,
+    20.4269
+  ],
+  "alternate_names_hi": "दमन और दिउ",
+  "alternate_names_ta": "டாமன் அண்ட்  டையூ",
+  "id": "location_states_36",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q66710",
+    "geonameid": "1271155"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.170Z"
+  },
+  "country_id": "location_country_1",
+  "alternate_names_en": "all of daman and diu"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d93"
+  },
+  "name_en": "Delhi",
+  "name_hi": "दिल्ली",
+  "name_ta": "தில்லி",
+  "name_kn": "ದೆಹಲಿ",
+  "name_gu": "દિલ્હી",
+  "name_mr": "दिल्ली",
+  "name_bn": "দিল্লি",
+  "name_as": "দিল্লী",
+  "name_te": "ఢిల్లీ",
+  "name_or": "ଦିଲ୍ଲୀ",
+  "name_ur": "دہلی",
+  "name_pa": "ਦਿੱਲੀ",
+  "name_ml": "ദില്ലി",
+  "coordinates": [
+    77.2167,
+    28.6667
+  ],
+  "alternate_names_en": "National Capital Region of Delhi, NCR, all of delhi",
+  "alternate_names_ta": "டெல்லி",
+  "alternate_names_kn": "ಕೇಂದ್ರಾಢಳಿತ ಪ್ರದೇಶ",
+  "alternate_names_gu": "દિલ્લી",
+  "alternate_names_te": "ఢిల్లీ భారత జాతీయ రాజధాని ప్రాంతం, దిల్లీ",
+  "alternate_names_ur": "دلی",
+  "id": "location_states_18",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1353",
+    "geonameid": "1273293"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.145Z"
+  },
+  "country_id": "location_country_1"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d83"
+  },
+  "name_en": "Andhra Pradesh",
+  "name_hi": "आन्ध्र प्रदेश",
+  "name_ta": "ஆந்திரப் பிரதேசம்",
+  "name_kn": "ಆಂಧ್ರ ಪ್ರದೇಶ",
+  "name_gu": "આંધ્ર પ્રદેશ",
+  "name_mr": "आंध्र प्रदेश",
+  "name_bn": "অন্ধ্রপ্রদেশ",
+  "name_as": "অন্ধ্ৰপ্ৰদেশ",
+  "name_te": "ఆంధ్ర ప్రదేశ్",
+  "name_or": "ଆନ୍ଧ୍ର ପ୍ରଦେଶ",
+  "name_ur": "آندھرا پردیش",
+  "name_pa": "ਆਂਧਰਾ ਪ੍ਰਦੇਸ਼",
+  "name_ml": "ആന്ധ്രാപ്രദേശ്",
+  "coordinates": [
+    79,
+    16
+  ],
+  "alternate_names_en": "A.P, all of andhra pradesh",
+  "alternate_names_hi": "आंध्र प्रदेश",
+  "alternate_names_ta": "ஆந்திரா  பிரதேஷ்",
+  "alternate_names_te": "ఆంధ్రప్రదేశ్",
+  "id": "location_states_2",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1159",
+    "geonameid": "1278629"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.124Z"
+  },
+  "country_id": "location_country_1"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d87"
+  },
+  "name_en": "Chhattisgarh",
+  "name_hi": "छत्तीसगढ़",
+  "name_ta": "சத்தீஸ்கர்",
+  "name_kn": "ಛತ್ತೀಸ್ಘಡ್",
+  "name_gu": "છત્તીસગઢ",
+  "name_mr": "छत्तीसगड",
+  "name_bn": "ছত্তীসগঢ়",
+  "name_as": "ছত্তীছগঢ়",
+  "name_te": "ఛత్తీస్గఢ్",
+  "name_or": "ଛତିଶଗଡ଼",
+  "name_ur": "چھتیس گڑھ",
+  "name_pa": "ਛੱਤੀਸਗੜ੍ਹ",
+  "name_ml": "ഛത്തീസ്ഗഢ്",
+  "coordinates": [
+    81.6,
+    21.27
+  ],
+  "alternate_names_en": "Chattisgarh, Chhatisgarh State, IN-CT, State of Chhattisgarh, all of chhattisgarh",
+  "id": "location_states_6",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1168",
+    "geonameid": "1444364"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.129Z"
+  },
+  "country_id": "location_country_1"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d91"
+  },
+  "name_en": "Manipur",
+  "name_hi": "मणिपुर",
+  "name_ta": "மணிப்பூர்",
+  "name_kn": "ಮಣಿಪುರ",
+  "name_gu": "મણિપુર",
+  "name_mr": "मणिपूर",
+  "name_bn": "মণিপুর",
+  "name_as": "মণিপুৰ",
+  "name_te": "మణిపూర్",
+  "name_or": "ମଣିପୁର",
+  "name_ur": "منی پور",
+  "name_pa": "ਮਨੀਪੁਰ",
+  "name_ml": "മണിപ്പൂർ",
+  "coordinates": [
+    93.9417,
+    24.8067
+  ],
+  "id": "location_states_16",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1193",
+    "geonameid": "1263706"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.143Z"
+  },
+  "country_id": "location_country_1",
+  "alternate_names_en": "all of manipur"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d9e"
+  },
+  "name_en": "Odisha",
+  "name_hi": "ओडिशा",
+  "name_ta": "ஒடிசா",
+  "name_kn": "ಒರಿಸ್ಸಾ",
+  "name_gu": "ઑડિશા",
+  "name_mr": "ओडिशा",
+  "name_bn": "ওড়িশা",
+  "name_as": "ওড়িশা",
+  "name_te": "ఒరిస్సా",
+  "name_or": "ଓଡ଼ିଶା",
+  "name_ur": "اڑیسہ",
+  "name_pa": "ਓਡੀਸ਼ਾ",
+  "name_ml": "ഒഡീഷ",
+  "coordinates": [
+    85.5,
+    20.15
+  ],
+  "alternate_names_en": "Kalinga, Orissa, Utkal, all of odisha",
+  "alternate_names_hi": "कलिंग, उत्कल",
+  "alternate_names_as": "উৎকল, উৰিষ্যা, কলিংগ",
+  "alternate_names_te": "ఒడిషా",
+  "alternate_names_or": "ଉତ୍କଳ, କଳିଙ୍ଗ, ଉଡ୍ର",
+  "id": "location_states_29",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q22048",
+    "geonameid": "1261029"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.160Z"
+  },
+  "country_id": "location_country_1"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d92"
+  },
+  "name_en": "Meghalaya",
+  "name_hi": "मेघालय",
+  "name_ta": "மேகாலயா",
+  "name_kn": "ಮೆಘಾಲಯ",
+  "name_gu": "મેઘાલય",
+  "name_mr": "मेघालय",
+  "name_bn": "মেঘালয়",
+  "name_as": "মেঘালয়",
+  "name_te": "మేఘాలయ",
+  "name_or": "ମେଘାଳୟ",
+  "name_ur": "میگھالیہ",
+  "name_pa": "ਮੇਘਾਲਿਆ",
+  "name_ml": "മേഘാലയ",
+  "coordinates": [
+    91.88,
+    25.57
+  ],
+  "id": "location_states_17",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1195",
+    "geonameid": "1263207"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.144Z"
+  },
+  "country_id": "location_country_1",
+  "alternate_names_en": "all of meghalaya"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d9a"
+  },
+  "name_en": "Uttarakhand",
+  "name_hi": "उत्तराखण्ड",
+  "name_ta": "உத்தராகண்டம்",
+  "name_kn": "ಉತ್ತರಾಖಂಡ",
+  "name_gu": "ઉત્તરાખંડ",
+  "name_mr": "उत्तराखंड",
+  "name_bn": "উত্তরাখণ্ড",
+  "name_as": "উত্তৰাখণ্ড",
+  "name_te": "ఉత్తరాఖండ్",
+  "name_or": "ଉତ୍ତରାଖଣ୍ଡ",
+  "name_ur": "اتراکھنڈ",
+  "name_pa": "ਉੱਤਰਖੰਡ",
+  "name_ml": "ഉത്തരാഖണ്ഡ്",
+  "coordinates": [
+    78.06,
+    30.33
+  ],
+  "alternate_names_en": "Uttaranchal, all of uttarakhand, Ukhand",
+  "alternate_names_hi": "उत्तराञ्चल",
+  "alternate_names_ta": "உத்தரகண்ட்",
+  "alternate_names_te": "ఉత్తరాంచల్",
+  "id": "location_states_25",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1499",
+    "geonameid": "1444366"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.154Z"
+  },
+  "country_id": "location_country_1"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d98"
+  },
+  "name_en": "Tamil Nadu",
+  "name_hi": "तमिल नाडु",
+  "name_ta": "தமிழ்நாடு",
+  "name_kn": "ತಮಿಳುನಾಡು",
+  "name_gu": "તમિલનાડુ",
+  "name_mr": "तमिळनाडू",
+  "name_bn": "তামিলনাড়ু",
+  "name_as": "তামিলনাডু",
+  "name_te": "తమిళనాడు",
+  "name_or": "ତାମିଲନାଡୁ",
+  "name_ur": "تامل ناڈو",
+  "name_pa": "ਤਾਮਿਲ ਨਾਡੂ",
+  "name_ml": "തമിഴ്നാട്",
+  "coordinates": [
+    80.27,
+    13.09
+  ],
+  "alternate_names_ta": "தமிணாடு, தமிழ்  நாடு",
+  "id": "location_states_23",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1445",
+    "geonameid": "1255053"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.152Z"
+  },
+  "country_id": "location_country_1",
+  "alternate_names_en": "all of tamil nadu, TN"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15da6"
+  },
+  "name_en": "Puducherry",
+  "name_hi": "पुदुच्चेरी",
+  "name_ta": "புதுச்சேரி",
+  "name_kn": "ಪುದುಚೇರಿ",
+  "name_gu": "પુડુચેરી",
+  "name_mr": "पुडुचेरी",
+  "name_bn": "পুদুচেরি",
+  "name_te": "పుదుచ్చేరి",
+  "name_or": "ପୁଡୁଚେରୀ",
+  "name_ur": "پونڈیچری",
+  "name_pa": "ਪਾਂਡੀਚਰੀ",
+  "name_ml": "പുതുച്ചേരി",
+  "coordinates": [
+    79.83,
+    11.93
+  ],
+  "alternate_names_en": "Pondicherry, Pondichéry, Pondy, Puduvai, all of puducherry",
+  "alternate_names_hi": "पुड्डूचेरी",
+  "alternate_names_kn": "ಪುದುಚೆರಿ",
+  "alternate_names_gu": "પૉંડિચેરી",
+  "id": "location_states_37",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q66743",
+    "geonameid": "1259424"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.171Z"
+  },
+  "country_id": "location_country_1"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d8d"
+  },
+  "name_en": "Karnataka",
+  "name_hi": "कर्नाटक",
+  "name_ta": "கருநாடகம்",
+  "name_kn": "ಕರ್ನಾಟಕ",
+  "name_gu": "કર્ણાટક",
+  "name_mr": "कर्नाटक",
+  "name_bn": "কর্ণাটক",
+  "name_as": "কৰ্ণাটক",
+  "name_te": "కర్ణాటక",
+  "name_or": "କର୍ଣ୍ଣାଟକ",
+  "name_ur": "کرناٹک",
+  "name_pa": "ਕਰਨਾਟਕ",
+  "name_ml": "കർണാടക",
+  "coordinates": [
+    77.5603,
+    12.9702
+  ],
+  "alternate_names_ta": "கர்நாடகா",
+  "alternate_names_kn": "ಕರುನಾಡು",
+  "alternate_names_te": "కర్నాటక",
+  "alternate_names_ml": "കന്നടനാട്",
+  "id": "location_states_12",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1185",
+    "geonameid": "1267701"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.138Z"
+  },
+  "country_id": "location_country_1",
+  "alternate_names_en": "all of karnataka, Ktaka"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d8c"
+  },
+  "name_en": "Jharkhand",
+  "name_hi": "झारखण्ड",
+  "name_ta": "சார்க்கண்ட்",
+  "name_kn": "ಝಾರ್ಖಂಡ್",
+  "name_gu": "ઝારખંડ",
+  "name_mr": "झारखंड",
+  "name_bn": "ঝাড়খণ্ড",
+  "name_as": "ঝাড়খণ্ড",
+  "name_te": "జార్ఖండ్",
+  "name_or": "ଝାଡ଼ଖଣ୍ଡ",
+  "name_ur": "جھاڑکھنڈ",
+  "name_pa": "ਝਾਰਖੰਡ",
+  "name_ml": "ഝാർഖണ്ഡ്",
+  "coordinates": [
+    85.33,
+    23.35
+  ],
+  "alternate_names_hi": "झारखंड",
+  "alternate_names_ta": "ஜார்கன்ட்",
+  "id": "location_states_11",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1184",
+    "geonameid": "1444365"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.136Z"
+  },
+  "country_id": "location_country_1",
+  "alternate_names_en": "all of jharkhand"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d85"
+  },
+  "name_en": "Assam",
+  "name_hi": "असम",
+  "name_ta": "அசாம்",
+  "name_kn": "ಅಸ್ಸಾಂ",
+  "name_gu": "આસામ",
+  "name_mr": "आसाम",
+  "name_bn": "আসাম",
+  "name_as": "অসম",
+  "name_te": "అసోం",
+  "name_or": "ଆସାମ",
+  "name_ur": "آسام",
+  "name_pa": "ਅਸਾਮ",
+  "name_ml": "ആസാം",
+  "coordinates": [
+    93,
+    26
+  ],
+  "alternate_names_en": "Asom, Axom, The Land of Red Rivers and Blue Hills, all of assam",
+  "alternate_names_as": "অছম, অহম, আছাম, আসম, আসাম, আহম",
+  "alternate_names_te": "అస్సాం",
+  "id": "location_states_4",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1164",
+    "geonameid": "1278253"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.127Z"
+  },
+  "country_id": "location_country_1"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d8b"
+  },
+  "name_en": "Jammu and Kashmir",
+  "name_hi": "जम्मू और कश्मीर",
+  "name_ta": "சம்மு காசுமீர்",
+  "name_kn": "ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರ",
+  "name_gu": "જમ્મુ અને કાશ્મીર",
+  "name_mr": "जम्मू आणि काश्मीर",
+  "name_bn": "জম্মু ও কাশ্মীর",
+  "name_as": "জম্মু আৰু কাশ্মীৰ",
+  "name_te": "జమ్మూ కాశ్మీరు",
+  "name_or": "ଜମ୍ମୁ ଓ କଶ୍ମୀର",
+  "name_ur": "جموں و کشمیر",
+  "name_pa": "ਜੰਮੂ ਅਤੇ ਕਸ਼ਮੀਰ",
+  "name_ml": "ജമ്മു-കശ്മീർ",
+  "coordinates": [
+    76.24,
+    33.45
+  ],
+  "alternate_names_en": "Indian-administered Kashmir, J&K, State of Jammu and Kashmīr, all of jammu and kashmir, kashmir",
+  "alternate_names_ta": "ஜம்மு அண்ட்  காஷ்மீர்",
+  "id": "location_states_10",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1180",
+    "geonameid": "1269320"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.135Z"
+  },
+  "country_id": "location_country_1"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15da2"
+  },
+  "name_en": "Chandigarh",
+  "name_hi": "चण्डीगढ़",
+  "name_ta": "சண்டிகர்",
+  "name_kn": "ಚಂಡೀಗಡ",
+  "name_gu": "ચંડીગઢ",
+  "name_mr": "चंदिगढ",
+  "name_bn": "চণ্ডীগড়",
+  "name_te": "చండీగఢ్",
+  "name_or": "ଚଣ୍ଡୀଗଡ଼",
+  "name_ur": "چندی گڑھ",
+  "name_pa": "ਚੰਡੀਗੜ੍ਹ",
+  "name_ml": "ചണ്ഡീഗഢ്",
+  "coordinates": [
+    76.7911,
+    30.7353
+  ],
+  "alternate_names_en": "The city beautiful, all of chandigarh",
+  "alternate_names_hi": "Chandigarh, चंडीगढ, चंडीगढ़, चण्डीगढ",
+  "alternate_names_ta": "சண்டிகார், சண்டீகட், சண்டீகர், சந்திகர்",
+  "alternate_names_kn": "ಚಂಡಿಗಡ್, ಚಂಡೀಗಢ, ಚಂಡೀಘರ್, ಚಂದಿಗಡ, ಚಂದೀಘರ್",
+  "alternate_names_gu": "ચંદીગઢ",
+  "alternate_names_mr": "चंडीगढ, चंदिगड, चंदीगड, चंदीगढ",
+  "alternate_names_bn": "চন্ডীগড়",
+  "alternate_names_te": "చండీఘడ్, చండీఘర్, చంఢీఘడ్, ఛండీగఢ్",
+  "alternate_names_or": "Chandigarh, ଚଣ୍ଡୀଗଢ଼",
+  "alternate_names_ur": "ڈوب",
+  "alternate_names_pa": "Chandhigarh",
+  "alternate_names_ml": "Chandigarh, ചണ്ഡിഗഡ്, ചണ്ഢീഗഡ്",
+  "id": "location_states_33",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q43433",
+    "geonameid": "1274744"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.166Z"
+  },
+  "country_id": "location_country_1"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d96"
+  },
+  "name_en": "Tripura",
+  "name_hi": "त्रिपुरा",
+  "name_ta": "திரிபுரா",
+  "name_kn": "ತ್ರಿಪುರ",
+  "name_gu": "ત્રિપુરા",
+  "name_mr": "त्रिपुरा",
+  "name_bn": "ত্রিপুরা",
+  "name_as": "ত্ৰিপুৰা",
+  "name_te": "త్రిపుర",
+  "name_or": "ତ୍ରିପୁରା",
+  "name_ur": "تری پورہ",
+  "name_pa": "ਤ੍ਰਿਪੁਰਾ",
+  "name_ml": "ത്രിപുര",
+  "coordinates": [
+    91.28,
+    23.84
+  ],
+  "id": "location_states_21",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1363",
+    "geonameid": "1254169"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.149Z"
+  },
+  "country_id": "location_country_1",
+  "alternate_names_en": "all of tripura"
+},
+{
+  "_id": {
+    "$oid": "5ef3d5cdcdb5f22cb6282ef5"
+  },
+  "id": "location_states_41",
+  "alternate_names_as": "লাদাখ",
+  "alternate_names_en": "all of ladakh",
+  "alternate_names_gu": "લદાખ",
+  "alternate_names_hi": "लदाख, लद्दाख",
+  "alternate_names_ml": "ലഡാക്ക്",
+  "alternate_names_mr": "लढ्ढाक, लदाख. लद्दाख",
+  "coordinates": [
+    77.41667,
+    34.33333
+  ],
+  "country_code": "location_country_1",
+  "last_updated": {
+    "$date": "2020-03-30T21:23:30.162Z"
+  },
+  "name_as": "লাডাখ",
+  "name_bn": "লাদাখ",
+  "name_en": "Ladakh",
+  "name_gu": "લડાખ",
+  "name_hi": "लद्दाख़",
+  "name_kn": "ಲಡಾಖ್",
+  "name_ml": "ലഡാക്",
+  "name_mr": "लडाख",
+  "name_or": "ଲଦାଖ",
+  "name_pa": "ਲਦਾਖ਼",
+  "name_ta": "லடாக்",
+  "name_te": "లడఖ్",
+  "name_ur": "لداخ",
+  "source_ids": {
+    "wikidata": "https://www.wikidata.org/wiki/Q200667",
+    "geonameid": 1265343
+  }
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d8f"
+  },
+  "name_en": "Madhya Pradesh",
+  "name_hi": "मध्य प्रदेश",
+  "name_ta": "மத்தியப் பிரதேசம்",
+  "name_kn": "ಮಧ್ಯ ಪ್ರದೇಶ",
+  "name_gu": "મધ્ય પ્રદેશ",
+  "name_mr": "मध्य प्रदेश",
+  "name_bn": "মধ্যপ্রদেশ",
+  "name_as": "মধ্য প্ৰদেশ",
+  "name_te": "మధ్య ప్రదేశ్",
+  "name_or": "ମଧ୍ୟ ପ୍ରଦେଶ",
+  "name_ur": "مدھیہ پردیش",
+  "name_pa": "ਮੱਧ ਪ੍ਰਦੇਸ਼",
+  "name_ml": "മധ്യപ്രദേശ്",
+  "coordinates": [
+    77.417,
+    23.25
+  ],
+  "alternate_names_ta": "மத்யா  பிரதேஷ்",
+  "alternate_names_ml": "മധ്യപ്രദേശ്",
+  "id": "location_states_14",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1188",
+    "geonameid": "1264542"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.140Z"
+  },
+  "country_id": "location_country_1",
+  "alternate_names_en": "all of madhya pradesh, M.P"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15da7"
+  },
+  "name_en": "Telangana",
+  "name_hi": "तेलंगाना",
+  "name_ta": "தெலுங்கானா",
+  "name_kn": "ತೆಲಂಗಾಣ",
+  "name_gu": "તેલંગાણા",
+  "name_mr": "तेलंगणा",
+  "name_bn": "তেলঙ্গানা",
+  "name_as": "তেলেংগানা",
+  "name_te": "తెలంగాణ",
+  "name_or": "ତେଲେଙ୍ଗାନା",
+  "name_ur": "تیلنگانا",
+  "name_pa": "ਤੇਲੰਗਾਨਾ",
+  "name_ml": "തെലങ്കാന",
+  "coordinates": [
+    79.59,
+    17.99
+  ],
+  "alternate_names_mr": "तेलंगण, तेलंगाणा",
+  "alternate_names_te": "తెలంగాణ, భారత్, తెలంగాణా, తెలంగాణా తల్లి, తెలంగాన",
+  "alternate_names_ur": "تلنگانا",
+  "alternate_names_ml": "Telangana, തെലംഗാണ, തെലുങ്കാന",
+  "id": "location_states_38",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q677037",
+    "geonameid": "1254788"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.172Z"
+  },
+  "country_id": "location_country_1",
+  "alternate_names_en": "all of telangana"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d84"
+  },
+  "name_en": "Arunachal Pradesh",
+  "name_hi": "अरुणाचल प्रदेश",
+  "name_ta": "அருணாசலப் பிரதேசம்",
+  "name_kn": "ಅರುಣಾಚಲ ಪ್ರದೇಶ",
+  "name_gu": "અરુણાચલ પ્રદેશ",
+  "name_mr": "अरुणाचल प्रदेश",
+  "name_bn": "অরুণাচল প্রদেশ",
+  "name_as": "অৰুণাচল প্ৰদেশ",
+  "name_te": "అరుణాచల్ ప్రదేశ్",
+  "name_or": "ଅରୁଣାଚଳ ପ୍ରଦେଶ",
+  "name_ur": "اروناچل پردیش",
+  "name_pa": "ਅਰੁਨਾਚਲ ਪ੍ਰਦੇਸ਼",
+  "name_ml": "അരുണാചൽ പ്രദേശ്",
+  "coordinates": [
+    93.37,
+    27.06
+  ],
+  "alternate_names_ta": "அருணாச்சல் பிரதேஷ்",
+  "id": "location_states_3",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1162",
+    "geonameid": "1278341"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.126Z"
+  },
+  "country_id": "location_country_1",
+  "alternate_names_en": "A.P, all of arunachal pradesh"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d9d"
+  },
+  "name_en": "Nagaland",
+  "name_hi": "नागालैण्ड",
+  "name_ta": "நாகாலாந்து",
+  "name_kn": "ನಾಗಲ್ಯಂಡ್",
+  "name_gu": "નાગાલેંડ",
+  "name_mr": "नागालँड",
+  "name_bn": "নাগাল্যান্ড",
+  "name_as": "নাগালেণ্ড",
+  "name_te": "నాగాలాండ్",
+  "name_or": "ନାଗାଲାଣ୍ଡ",
+  "name_ur": "ناگالینڈ",
+  "name_pa": "ਨਾਗਾਲੈਂਡ",
+  "name_ml": "നാഗാലാൻഡ്",
+  "coordinates": [
+    94.6525,
+    26.2292
+  ],
+  "alternate_names_hi": "नागालैंड",
+  "alternate_names_ta": "நாகலாந்து",
+  "id": "location_states_28",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1599",
+    "geonameid": "1262271"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.158Z"
+  },
+  "country_id": "location_country_1",
+  "alternate_names_en": "all of nagaland"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d99"
+  },
+  "name_en": "Uttar Pradesh",
+  "name_hi": "उत्तर प्रदेश",
+  "name_ta": "உத்தரப் பிரதேசம்",
+  "name_kn": "ಉತ್ತರ ಪ್ರದೇಶ",
+  "name_gu": "ઉત્તર પ્રદેશ",
+  "name_mr": "उत्तर प्रदेश",
+  "name_bn": "উত্তরপ্রদেশ",
+  "name_as": "উত্তৰ প্ৰদেশ",
+  "name_te": "ఉత్తర ప్రదేశ్",
+  "name_or": "ଉତ୍ତର ପ୍ରଦେଶ",
+  "name_ur": "اتر پردیش",
+  "name_pa": "ਉੱਤਰ ਪ੍ਰਦੇਸ਼",
+  "name_ml": "ഉത്തർപ്രദേശ്",
+  "coordinates": [
+    80.91,
+    26.85
+  ],
+  "alternate_names_en": "U.P, U.P.,all of uttar pradesh",
+  "alternate_names_hi": "उपि",
+  "alternate_names_ta": "உத்தர  பிரதேஷ்",
+  "alternate_names_te": "యూపి",
+  "id": "location_states_24",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1498",
+    "geonameid": "1253626"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.153Z"
+  },
+  "country_id": "location_country_1"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d9b"
+  },
+  "name_en": "Mizoram",
+  "name_hi": "मिज़ोरम",
+  "name_ta": "மிசோரம்",
+  "name_kn": "ಮಿಝೋರಂ",
+  "name_gu": "મિઝોરમ",
+  "name_mr": "मिझोरम",
+  "name_bn": "মিজোরাম",
+  "name_as": "মিজোৰাম",
+  "name_te": "మిజోరాం",
+  "name_or": "ମିଜୋରାମ",
+  "name_ur": "میزورم",
+  "name_pa": "ਮਿਜ਼ੋਰਮ",
+  "name_ml": "മിസോറം",
+  "coordinates": [
+    92.8,
+    23.36
+  ],
+  "alternate_names_hi": "मिजोरम",
+  "id": "location_states_26",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1502",
+    "geonameid": "1262963"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.155Z"
+  },
+  "country_id": "location_country_1",
+  "alternate_names_en": "all of mizoram"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d95"
+  },
+  "name_en": "West Bengal",
+  "name_hi": "पश्चिम बंगाल",
+  "name_ta": "மேற்கு வங்காளம்",
+  "name_kn": "ಪಶ್ಚಿಮ ಬಂಗಾಳ",
+  "name_gu": "પશ્ચિમ બંગાળ",
+  "name_mr": "पश्चिम बंगाल",
+  "name_bn": "পশ্চিমবঙ্গ",
+  "name_as": "পশ্চিমবঙ্গ",
+  "name_te": "పశ్చిమ బెంగాల్",
+  "name_or": "ପଶ୍ଚିମ ବଙ୍ଗ",
+  "name_ur": "مغربی بنگال",
+  "name_pa": "ਪੱਛਮੀ ਬੰਗਾਲ",
+  "name_ml": "പശ്ചിമ ബംഗാൾ",
+  "coordinates": [
+    88.3667,
+    22.5667
+  ],
+  "alternate_names_en": "Paschimbanga, all of west bengal",
+  "alternate_names_ta": "மேற்கு   பெண்கள்",
+  "alternate_names_or": "ପଶ୍ଚିମବଙ୍ଗ",
+  "id": "location_states_20",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1356",
+    "geonameid": "1252881"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.148Z"
+  },
+  "country_id": "location_country_1"
+},
+{
+  "_id": {
+    "$oid": "5d8cd47b9e66cc7b3ba15d89"
+  },
+  "name_en": "Haryana",
+  "name_hi": "हरियाणा",
+  "name_ta": "அரியானா",
+  "name_kn": "ಹರಿಯಾಣ",
+  "name_gu": "હરિયાણા",
+  "name_mr": "हरियाणा",
+  "name_bn": "হরিয়ানা",
+  "name_as": "হাৰিয়ানা",
+  "name_te": "హర్యానా",
+  "name_or": "ହରିୟାଣା",
+  "name_ur": "ہریانہ",
+  "name_pa": "ਹਰਿਆਣਾ",
+  "name_ml": "ഹരിയാണ",
+  "coordinates": [
+    76.3246,
+    29.1937
+  ],
+  "alternate_names_hi": "हरयाणा",
+  "alternate_names_ta": "ஹரியானா",
+  "alternate_names_or": "ହରିଆନା",
+  "id": "location_states_8",
+  "source_ids": {
+    "wikidata": "http://www.wikidata.org/entity/Q1174",
+    "geonameid": "1270260"
+  },
+  "last_updated": {
+    "$date": "2019-12-18T14:47:01.132Z"
+  },
+  "country_id": "location_country_1",
+  "alternate_names_en": "all of haryana"
+}]

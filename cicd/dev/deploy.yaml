@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ds-dump-entities-to-redis-dev
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ds-dump-entities-to-redis-dev
+  template:
+    metadata:
+      labels:
+        app: ds-dump-entities-to-redis-dev
+    spec:
+      containers:
+      - name: pod-container
+        image: asia-south1-docker.pkg.dev/jiox-328108/pie-ds-stage/dev/dump_entities_to_redis:v2
+        imagePullPolicy: Always
+        envFrom:
+          - secretRef:
+              name: ds-recogen-dev-env-v2
+        command: ["/bin/sh", "-c"]
+        args:
+        - >
+          while true; do
+            echo "Hello from the infinite loop!";
+            sleep 5;
+          done
